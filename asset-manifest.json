@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.0b4e74b4.css",
+    "main.js": "/reactlivewebsite/static/js/main.5d152fc6.js",
+    "static/js/787.7acd9509.chunk.js": "/reactlivewebsite/static/js/787.7acd9509.chunk.js",
+    "static/media/benz2.jpg": "/reactlivewebsite/static/media/benz2.04cd71cf4e3e7893c69a.jpg",
+    "static/media/benz3.jpg": "/reactlivewebsite/static/media/benz3.7ccf184cef135ee8d734.jpg",
+    "static/media/benz6.jpg": "/reactlivewebsite/static/media/benz6.cecf361bff6c71bfa2f6.jpg",
+    "static/media/benz4.jpg": "/reactlivewebsite/static/media/benz4.988dd683a424baca04f7.jpg",
+    "static/media/benz1.jpg": "/reactlivewebsite/static/media/benz1.f380c9a674850fd091f5.jpg",
+    "static/media/benz5.jpg": "/reactlivewebsite/static/media/benz5.79c989ecb63850020470.jpg",
+    "index.html": "/reactlivewebsite/index.html",
+    "main.0b4e74b4.css.map": "/reactlivewebsite/static/css/main.0b4e74b4.css.map",
+    "main.5d152fc6.js.map": "/reactlivewebsite/static/js/main.5d152fc6.js.map",
+    "787.7acd9509.chunk.js.map": "/reactlivewebsite/static/js/787.7acd9509.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b4e74b4.css",
+    "static/js/main.5d152fc6.js"
+  ]
+}
